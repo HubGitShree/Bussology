@@ -30,8 +30,7 @@ step 6:- check your project http://localhost/transport/
 step 7:- admin username :-admin and password : admin
 
 ## Connect with me ~Anushree Pal
-[!][Linkedin Badge](https://www.linkedin.com/in/anushree-pal-b0179622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
 
 
 
