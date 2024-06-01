@@ -29,9 +29,8 @@ step 6:- check your project http://localhost/transport/
 
 step 7:- admin username :-admin and password : admin
 
-## Connect with me ~Rajesh Rathore
-
-[![Linkedin Badge](https://www.linkedin.com/in/anushree-pal-b0179622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## Connect with me ~Anushree Pal
+[!][Linkedin Badge](https://www.linkedin.com/in/anushree-pal-b0179622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
